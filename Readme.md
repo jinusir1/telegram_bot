@@ -11,7 +11,8 @@
 
   </a>  
 </p>
--------
+
+--------
 
 This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
 
