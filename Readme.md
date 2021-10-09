@@ -1,7 +1,5 @@
 # DONLEE_ROBOT
 
-https://github.com/
-
 <p align="center">
   <a href="https://github.com/PR0FESS0R-99/DonLee_Robot/stargazers">
     <img src="https://img.shields.io/github/stars/PR0FESS0R-99/DonLee_Robot?style=social">
@@ -14,18 +12,20 @@ https://github.com/
   </a>  
 </p>
 
+--
 
 This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
 
 Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
+--
 
 ## Usage
 
-**__How To Use Me!?__**
+**How To Use Me!?**
 
-* -> Add me to any group and make me admin<br>
-* -> Add me to your channel as admin with full previlages
+* Add me to any group and make me admin<br>
+* Add me to your channel as admin with full previlages
 
 **Bot Commands (Works Only In Groups) :**
 
@@ -44,17 +44,17 @@ OR
     &nbsp;&nbsp;&nbsp;&nbsp; `/del @Username`
 
 
-  * -> `/delall`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - To delete all connections of a group and deletes all its file from DB
+  * `/delall`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - To delete all connections of a group and deletes all its file from DB
   
-  * -> `/settings`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  To disaply a Settings Pannel Instance which can be used to tweek bot's settings accordingly
+  * `/settings`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  To disaply a Settings Pannel Instance which can be used to tweek bot's settings accordingly
 
-    * -> Channel - Button will show you all the connected chats with the group along with there index buttons correspnding to there order for furthur controls...
+    * Channel - Button will show you all the connected chats with the group along with there index buttons correspnding to there order for furthur controls...
 
-    * -> Filter Types - Button will show you the 3 filter types available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use them...without the need of a restart....
+    * Filter Types - Button will show you the 3 filter types available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use them...without the need of a restart....
 
-    * -> Configure - Button will help you to change no. of pages/ buttons per page/ total result without acutally editing the repo... Also it provide option to Enable/Disable  showing Invite Link in each results
+    * Configure - Button will help you to change no. of pages/ buttons per page/ total result without acutally editing the repo... Also it provide option to Enable/Disable  showing Invite Link in each results
 
-    * -> Status - Button will show the stats of your current group
+    * Status - Button will show the stats of your current group
 
 ### Pre Requisites 
 ------------------
