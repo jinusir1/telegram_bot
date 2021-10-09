@@ -14,7 +14,7 @@
 
 --------
 
-This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
+This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
 
 Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
@@ -56,17 +56,17 @@ OR
 
     * Status - Button will show the stats of your current group
 
-### Pre Requisites 
 ------------------
-* ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
+#### Main Pre Requisites
 
-* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)__
+* Your Bot Token From [@BotFather](https://youtu.be/cB4UduCcNWs)__
 
-* ->__Your User Session String Obtained From [@PyrogramStringBot](http://www.telegram.dog/PyrogramStringBot)__
+* Your APP ID And API Harsh From [Telegram](https://youtu.be/5eEsvLAKVc0) or [@MT_MytelegramOrg_Bit](https://youtu.be/5eEsvLAKVc0)
 
-* ->__Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)__
+* Your User Session String Obtained From [Telegram Bot](https://youtu.be/WUN_12-dYOM)
 
-#### PR's Are Very Welcome
+* Mongo DB URL Obtained From [Mongo DB](https://youtu.be/gBLTsH-IXr0)
+------------------
 
 ## Deploy
 You can deploy this bot anywhere.
@@ -82,32 +82,22 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
-cd Adv-Auto-Filter-Bot-V2
-pip3 install -r requirements.txt
-# Change The Vars Of bot/__init__.py File Accordingly
-python3 -m bot
-</pre>
-</p>
-</details>
-
+----
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
-
+----
 ## Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
+Licensed under [GNU AGPL v3.0.](https://github.com/PR0FESS0R-99/DonLee_Robot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-
+-----
 ## Credits
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
+ - [Thanks To AlbertEinsteinTG 👀](https://github.com/AlbertEinsteinTG)
+ - [PR0FESS0R-99](https://github.com/PR0FESS0R-99), [Mo_Tech_Group](https://telegram.dog/Mo_Tech_Group), [MT_Botz](https://telegram.dog/MT_Botz)
