@@ -15,7 +15,6 @@
 --------
 ##### Available DonLee Bots
 
-* Auto Filter V2 Orginal
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
@@ -25,12 +24,10 @@
 </p>
 </details>
 
-* Auto Filter 2.0 Editing Repo
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Auto Filter 3 Editing Repo</summary>
 <p>
 <br>
 Coming Soon
-
 <a href="https://youtu.be/uAHl5jvnrhk">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
