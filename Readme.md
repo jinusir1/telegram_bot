@@ -11,6 +11,11 @@
 
   </a>  
 </p>
+-------
+
+This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
+
+Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
 --------
 ##### Available DonLee Bots
@@ -42,14 +47,9 @@ Coming Soon
 </p>
 </details>
 
+----
 
-This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
-
-Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
-
---------
-
-## Usage
+##### Usage
 
 **How To Use Me!?**
 
@@ -86,7 +86,7 @@ OR
     * Status - Button will show the stats of your current group
 
 ------------------
-#### Main Pre Requisites
+##### Main Pre Requisites
 
 * Your Bot Token From [@BotFather](https://youtu.be/cB4UduCcNWs)__
 
@@ -95,28 +95,19 @@ OR
 * Your User Session String Obtained From [Telegram Bot](https://youtu.be/WUN_12-dYOM)
 
 * Mongo DB URL Obtained From [Mongo DB](https://youtu.be/gBLTsH-IXr0)
-------------------
-
-## Deploy
-You can deploy this bot anywhere.
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
-
-
 
 ----
-## Support   
+##### Support   
 Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
 ----
-## Disclaimer
+##### Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL v3.0.](https://github.com/PR0FESS0R-99/DonLee_Robot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
-
------
+----
 ## Credits
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
