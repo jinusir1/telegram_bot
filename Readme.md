@@ -23,6 +23,10 @@
 * This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/main) is the original
 * Click [Deploy Video](https://youtu.be/uAHl5jvnrhk) to watch the video
 
+#### Deploy Video
+<a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/badge/Deploy%20Video%20AutoFilterBot-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/youtube/views/uAHl5jvnrhk?style=social">
+
 #### Deploy To Heroku
 <a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/main"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
