@@ -24,7 +24,7 @@
 * Click [Deploy Video](https://youtu.be/uAHl5jvnrhk) to watch the video
 
 #### Deploy Video
-<a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/badge/Deploy%20Video%20AutoFilterBot-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/badge/Deploy%20Video-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/youtube/views/uAHl5jvnrhk?style=social">
 
 #### Deploy To Heroku
