@@ -18,6 +18,16 @@ This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Ad
 
 Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
+------
+
+#### FEATURE
+
+* IMDB Poster Available
+* Spelling Mode
+* Main Text Mode (Kitto, Undo, Ille, Therumo)
+* Button Mode
+* Movie Text Mode (movie, Movie)
+
 --------
 ##### Available DonLee Bots
 
