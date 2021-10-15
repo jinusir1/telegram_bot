@@ -1,15 +1,15 @@
 {
-    "name": "Auto Filter Bot V2",
+    "name": "jinusir tm bot",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/92daa86a5ceb28fa6962d.jpg",
+    "logo": "https://i.ibb.co/mGvm498/Pics-Art-10-01-06-55.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/DonLee_Robot/tree/main",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://www.jinmovies.ga/?m=1",
+    "repository": "https://github.com/jinusir1/telegram_bot",
+    "success_url": "https://instagram.com/jinu__777?utm_medium=copy_link",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
