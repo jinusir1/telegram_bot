@@ -1,13 +1,13 @@
 # [JINUSIR TG BOT](https://telegram.dog/Donlee_Robot)
 
 <p align="center">
-  <a href="https://github.com/PR0FESS0R-99/DonLee_Robot/stargazers">
-    <img src="https://img.shields.io/github/stars/PR0FESS0R-99/DonLee_Robot?style=social">
+  <a href="https://github.com/jinusir1/telegram_bot/stargazers">
+    <img src="https://img.shields.io/github/stars/jinusir1/telegram_bot?style=social">
 
   </a>
   
-  <a href="https://github.com/PR0FESS0R-99/DonLee_Robot/fork">
-    <img src="https://img.shields.io/github/forks/PR0FESS0R-99/DonLee_Robot?label=Fork&style=social">
+  <a href="https://github.com/jinusir1/telegram_bot/fork">
+    <img src="https://img.shields.io/github/forks/jinusir1/telegram_bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -40,8 +40,8 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 * Click [Deploy Video](https://youtu.be/uAHl5jvnrhk) to watch the video
 
 #### Deploy Video
-<a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/badge/Deploy%20Video-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/youtube/views/uAHl5jvnrhk?style=social">
+<a href="https://instagram.com/jinu__777?utm_medium=copy_link"><img src="https://instagram.com/jinu__777?utm_medium=copy_link"></a>
+<a href="https://instagram.com/jinu__777?utm_medium=copy_link"><img src="https://instagram.com/jinu__777?utm_medium=copy_link">
 
 #### Deploy To Heroku
 <a href="https://heroku.com/deploy?template=https://github.com/jinusir1/telegram_bot"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
@@ -56,12 +56,12 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 * This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/MoTech) is the original
 * Click [Deploy Video](https://youtu.be/lI71HsWzTKE) to watch the video
 
-#### Deploy Video
-<a href="https://youtu.be/lI71HsWzTKE"><img src="https://img.shields.io/badge/Deploy%20Video-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/lI71HsWzTKE"><img src="https://img.shields.io/youtube/views/lI71HsWzTKE?style=social">
+#### insta id
+<a href="https://instagram.com/jinu__777?utm_medium=copy_link"><img src="https://instagram.com/jinu__777?utm_medium=copy_link"></a>
+<a href="https://instagram.com/jinu__777?utm_medium=copy_link"><img src="https://instagram.com/jinu__777?utm_medium=copy_link">
 
 #### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/MoTech"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/jinusir1/telegram_bot"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 </a>
 </p>
@@ -108,29 +108,29 @@ OR
 ------------------
 ##### Main Pre Requisites
 
-* Your Bot Token From [@BotFather](https://youtu.be/cB4UduCcNWs)__
+* Your Bot Token From [@BotFather](https://instagram.com/jinu__777?utm_medium=copy_link)__
 
-* Your APP ID And API Harsh From [Telegram](https://youtu.be/5eEsvLAKVc0) or [@MT_MytelegramOrg_Bit](https://youtu.be/5eEsvLAKVc0)
+* Your APP ID And API Harsh From [Telegram](https://instagram.com/jinu__777?utm_medium=copy_link) or [@MT_MytelegramOrg_Bit](https://instagram.com/jinu__777?utm_medium=copy_link)
 
-* Your User Session String Obtained From [Telegram Bot](https://youtu.be/WUN_12-dYOM)
+* Your User Session String Obtained From [Telegram Bot](https://instagram.com/jinu__777?utm_medium=copy_link)
 
-* Mongo DB URL Obtained From [Mongo DB](https://youtu.be/gBLTsH-IXr0)
+* Mongo DB URL Obtained From [Mongo DB](https://instagram.com/jinu__777?utm_medium=copy_link)
 
 ----
 ##### Support   
-Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
+Join Our [Telegram Group](https://t.me/joinchat/XmfuNeGIZ9Y5ZWJl) For Support/Assistance And Our [Channel](https://t.me/jinmovies123) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
 ----
 ##### Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/PR0FESS0R-99/DonLee_Robot/blob/main/LICENSE)
+Licensed under [GNU AGPL v3.0.](https://github.com/jinusir1/telegram_bot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ----
 ## Credits
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To AlbertEinsteinTG 👀](https://github.com/AlbertEinsteinTG)
- - [PR0FESS0R-99](https://github.com/PR0FESS0R-99), [Mo_Tech_Group](https://telegram.dog/Mo_Tech_Group), [MT_Botz](https://telegram.dog/MT_Botz)
+ - [iam jinusir](https://github.com/jinusir1)
+ - [JINUSIR_BY_JINAN](https://github.com/jinusir1), [my_website](https://www.jinmovies.ga/?m=1), [my_instagram](https://instagram.com/jinu__777?utm_medium=copy_link)
