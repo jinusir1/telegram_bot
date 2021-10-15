@@ -36,8 +36,8 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <br>
 
 ### Notice
-* This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/main) is the original
-* Click [Deploy Video](https://youtu.be/uAHl5jvnrhk) to watch the video
+* This [Deploy button](https://heroku.com/deploy?template=https://github.com/jinusir1/telegram_bot) is the original
+* Click [insta id](https://instagram.com/jinu__777?utm_medium=copy_link) to watch the video
 
 #### Deploy Video
 <a href="https://instagram.com/jinu__777?utm_medium=copy_link"><img src="https://instagram.com/jinu__777?utm_medium=copy_link"></a>
@@ -53,8 +53,8 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <br>
 
 ### Notice
-* This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_Robot/tree/MoTech) is the original
-* Click [Deploy Video](https://youtu.be/lI71HsWzTKE) to watch the video
+* This [Deploy button](https://heroku.com/deploy?template=https://github.com/jinusir1/telegram_bot) is the original
+* Click [insta id](https://instagram.com/jinu__777?utm_medium=copy_link) to watch the video
 
 #### insta id
 <a href="https://instagram.com/jinu__777?utm_medium=copy_link"><img src="https://instagram.com/jinu__777?utm_medium=copy_link"></a>
